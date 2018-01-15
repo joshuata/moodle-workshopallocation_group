@@ -1,0 +1,1 @@
+Group allocator based on the [live allocation plugin ](https://gitlab.com/albertgasset/moodle-workshopallocation_live) by Albert Gasset.
